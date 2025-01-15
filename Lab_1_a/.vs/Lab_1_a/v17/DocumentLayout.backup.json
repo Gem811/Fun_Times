@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hans\\OneDrive\\Desktop\\Practiceing C\u002B\u002B\\Practicing-C-\\Lab_1_a\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2FA8F57B-B1C1-4E8F-BECD-3E7E5D778681}|Lab_1_a\\Lab_1_a.vcxproj|C:\\Users\\hans\\OneDrive\\Desktop\\Practiceing C\u002B\u002B\\Practicing-C-\\Lab_1_a\\Lab_1_a\\hello_world.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2FA8F57B-B1C1-4E8F-BECD-3E7E5D778681}|Lab_1_a\\Lab_1_a.vcxproj|solutionrelative:Lab_1_a\\hello_world.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "hello_world.c",
+              "DocumentMoniker": "C:\\Users\\hans\\OneDrive\\Desktop\\Practiceing C\u002B\u002B\\Practicing-C-\\Lab_1_a\\Lab_1_a\\hello_world.c",
+              "RelativeDocumentMoniker": "Lab_1_a\\hello_world.c",
+              "ToolTip": "C:\\Users\\hans\\OneDrive\\Desktop\\Practiceing C\u002B\u002B\\Practicing-C-\\Lab_1_a\\Lab_1_a\\hello_world.c",
+              "RelativeToolTip": "Lab_1_a\\hello_world.c",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAowB0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-01-15T00:32:14.774Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
