@@ -1,2 +1,3 @@
-﻿  hello_world.c
-  Lab_1_a.vcxproj -> C:\Users\hans\OneDrive\Desktop\Practiceing C++\Practicing-C-\Lab_1_a\x64\Debug\Lab_1_a.exe
+﻿  Lab_work_b_past.c
+C:\Users\hans\OneDrive\Desktop\Fun_Times\Lab_1_a\Lab_1_a\Lab_work_b_past.c(37,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Lab_1_a.vcxproj -> C:\Users\hans\OneDrive\Desktop\Fun_Times\Lab_1_a\x64\Debug\Lab_1_a.exe
